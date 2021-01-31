@@ -41,3 +41,4 @@ admin/config.php
 # IDE Project files
 /.idea
 .idea
+/catalog/view/theme/materialize/image/
